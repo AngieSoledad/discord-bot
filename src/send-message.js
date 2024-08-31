@@ -13,20 +13,20 @@ const client = new Client({
 const roles = [
     {
         id :  '1210528531713495052',
-        label: "Moon's Live"
+        label: "Moon's LIVE"
     },
     {
-       id :  '859614524331524096',
-       label: 'League of Legends Notifications'
-    },
-    {
-        id :  '1188253627035430943',
-        label: "STEAM Multiplayer Notifications"
+        id :  '1279576823323299972',
+        label: "Announcements Ping"
     },
     {
         id :  '985037376206299166',
-        label: 'Game Night'
-    },    
+        label: 'Server Events Ping'
+    },   
+    {
+       id :  '859614524331524096',
+       label: 'League of Legends Ping'
+    }, 
 ]
 
 
